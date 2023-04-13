@@ -196,7 +196,7 @@ body {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: end;
+  justify-content: center;
   align-items: center;
 }
 
@@ -259,7 +259,7 @@ body {
   }
 
   .container{
-    padding: 1,5rem 1rem;
+    padding: 2rem 1rem;
   }
 
 }
