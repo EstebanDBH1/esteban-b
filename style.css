@@ -251,15 +251,15 @@ body {
 @media screen and (max-width: 400px){
 
   .logo a{
-    font-size: 10px;
+    font-size: 11px;
   }
 
   .place{
-    font-size: 10px;
+    font-size: 11px;
   }
 
   .container{
-    padding: 1rem;
+    padding: 1,5rem 1rem;
   }
 
 }
